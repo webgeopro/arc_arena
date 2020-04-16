@@ -1,0 +1,5 @@
+DirectoryIndex index.php
+
+RewriteEngine on
+#RewriteRule 1june /site/event/june_01
+RewriteRule !\.(js|ico|gif|jpg|png|css|htm)$ index.php

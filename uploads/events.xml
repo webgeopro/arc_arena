@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events date="май-июнь 2012">
+    
+<month id="Июнь">
+
+    <event>
+        <name>Чемпионат России по скалолазанию «Приз памяти Евгения Абалакова»</name>
+        <date>12-18 июня</date>
+        <begining>10.00</begining>
+        <place>Скалодром</place>
+    </event>
+
+    <event>
+        <name link="june_01">Семейный праздник в честь Дня защиты детей</name>
+        <date>1 июня</date>
+        <begining>10.00 - 00.00</begining>
+        <place>-</place>
+    </event>
+                       
+</month>
+
+<month id="Май">
+    
+    <event>
+        <name>Чемпионат и первенство Красноярского края по спортивному скалолазанию </name>
+        <date>25-27 мая</date>
+        <begining>10.00</begining>
+        <place>Скалодром</place>
+    </event>
+    
+    <event>
+        <name>Открытый турнир г. Красноярска по мини-хоккею с мячом, посвященный 55-летию Сергея Ломанова</name>
+        <date>22 мая</date>
+        <begining>18.30</begining>
+        <place>Ледовая арена</place>
+    </event>
+
+</month>
+    
+</events>
